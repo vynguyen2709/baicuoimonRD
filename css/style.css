@@ -1,0 +1,67 @@
+@charset "utf-8";
+/* CSS Document */
+.top-bar{
+	width: 100%; height: 50px;line-height: 50px
+}
+.top-bar a{
+	color: white
+}
+.top-bar a:hover{
+	color: #FFC113
+}
+.navbar .navbar-nav .nav-item .nav-link{
+	padding: 10px 20px
+}
+.navbar .navbar-nav .nav-item .nav-link:hover{
+	color: #056CB6
+}
+.navbar .navbar-nav .nav-item .dropdown-menu{ background-color: #056CB6; padding-top: 0;padding-bottom: 0; border-radius: 0	
+}
+.navbar .navbar-nav .nav-item .dropdown-menu li {
+	border-bottom: 1px solid #494949
+}
+.navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-item{color:white}
+.navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-item:hover{background-color: #ffc113
+}
+main{
+	width: 100%; min-height: 500px
+}
+footer{
+	width: 100%; min-height: 200px
+}
+.gach-chan{
+	border-bottom: 2px solid  #ffc113
+}
+footer .navbar-nav .nav-item .nav-link:hover{
+	color: #ffc113
+}
+.bottom-bar{
+	width: 100%; height: 50px; line-height: 50px
+}
+#service a{
+	text-decoration:  none; color: #565656
+}
+#service a:hover{
+	color: #ffc113
+}
+#news a{
+	text-decoration:  none; color: #565656;
+}
+#news a:hover{
+	color: #ffc113
+}
+#why{
+	width: 100%;min-height: 300px;background-image: url("../images/why.jpg");background-repeat: no-repeat;background-size: cover; background-position: top center
+}
+#banner{
+	width: 100%;min-height: 300px;background-image:url("../images/pageheader.png")
+
+
+
+
+
+
+
+
+
+
